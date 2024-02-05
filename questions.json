@@ -1,0 +1,354 @@
+{
+    "0":{
+        "question": "What does CPU stand for?",
+        "difficulty": "easy",
+        "answer": "Central Processing Unit",
+        "type": "single choice"
+    },
+    "1":{
+        "question": "Which of the following is a non-volatile memory?",
+        "difficulty": "easy",
+        "answer": "SSD",
+        "type": "multiple choice",
+        "options": ["RAM", "Cache", "SSD", "Registers"]
+    },
+    "2":{
+        "question": "Is HTML a programming language?",
+        "difficulty": "easy",
+        "answer": "False",
+        "type": "true/false"
+    },
+    "3":{
+        "question": "What does HTTP stand for?",
+        "difficulty": "medium",
+        "answer": "HyperText Transfer Protocol",
+        "type": "single choice"
+    },
+    "4":{
+        "question": "Which data structure uses a FIFO method?",
+        "difficulty": "medium",
+        "answer": "Queue",
+        "type": "single choice"
+    },
+    "5":{
+        "question": "In Object-Oriented Programming, encapsulation is:",
+        "difficulty": "medium",
+        "answer": "A concept of wrapping data and methods that work on data within one unit",
+        "type": "true/false"
+    },
+    "6":{
+        "question": "Which of the following sorting algorithms has the best average case runtime complexity?",
+        "difficulty": "hard",
+        "answer": "Merge sort",
+        "type": "multiple choice",
+        "options": ["Bubble sort", "Insertion sort", "Selection sort", "Merge sort"]
+    },
+    "7":{
+        "question": "TCP/IP model has how many layers?",
+        "difficulty": "medium",
+        "answer": "4",
+        "type": "single choice"
+    },
+    "8":{
+        "question": "IPv6 addresses have how many bits?",
+        "difficulty": "hard",
+        "answer": "128",
+        "type": "single choice"
+    },
+    "9":{
+        "question": "A pure virtual function in C++ is declared by using which keyword?",
+        "difficulty": "hard",
+        "answer": "= 0 at the end of function declaration",
+        "type": "single choice"
+    },
+    "10":{
+        "question": "Which of the following is a key-value pair data structure?",
+        "difficulty": "easy",
+        "answer": "Dictionary",
+        "type": "single choice"
+    },
+    "11":{
+        "question": "Which algorithm is widely used for file compression?",
+        "difficulty": "medium",
+        "answer": "Huffman Coding",
+        "type": "single choice"
+    },
+    "12":{
+        "question": "In databases, ACID stands for Atomicity, Consistency, Isolation, and ________.",
+        "difficulty": "medium",
+        "answer": "Durability",
+        "type": "single choice"
+    },
+    "13":{
+        "question": "Big O notation is used to:",
+        "difficulty": "medium",
+        "answer": "Describe the upper bound of an algorithm's running time",
+        "type": "true/false"
+    },
+    "14":{
+        "question": "Which of the following is NOT a type of cyber attack?",
+        "difficulty": "easy",
+        "answer": "Encapsulation",
+        "type": "multiple choice",
+        "options": ["Phishing", "DDoS", "SQL Injection", "Encapsulation"]
+    },
+    "15":{
+        "question": "HTTPS encrypts data sent over the Internet using:",
+        "difficulty": "medium",
+        "answer": "TLS (Transport Layer Security)",
+        "type": "single choice"
+    },
+    "16":{
+        "question": "Machine learning is a subset of:",
+        "difficulty": "easy",
+        "answer": "Artificial Intelligence",
+        "type": "single choice"
+    },
+    "17":{
+        "question": "A deadlock in a system can be prevented by ensuring:",
+        "difficulty": "hard",
+        "answer": "All of the above (Circular wait prevention, Hold and wait prevention, No preemption)",
+        "type": "multiple choice",
+        "options": ["Circular wait prevention", "Hold and wait prevention", "No preemption", "All of the above"]
+    },
+    "18":{
+        "question": "Which of the following is true about blockchain?",
+        "difficulty": "medium",
+        "answer": "It is a distributed ledger technology",
+        "type": "true/false"
+    },
+    "19":{
+        "question": "What is the main advantage of using cloud computing?",
+        "difficulty": "easy",
+        "answer": "Scalability",
+        "type": "single choice"
+    },
+    "20": {
+        "question": "What is polymorphism in object-oriented programming?",
+        "difficulty": "medium",
+        "answer": "The ability of different objects to respond, each in its own way, to identical messages",
+        "type": "single choice"
+    },
+    "21": {
+        "question": "Describe the difference between stack and heap memory.",
+        "difficulty": "medium",
+        "answer": "Stack memory is used for static memory allocation, while heap memory is used for dynamic memory allocation.",
+        "type": "single choice"
+    },
+    "22": {
+        "question": "What is a deadlock?",
+        "difficulty": "medium",
+        "answer": "A situation where two or more processes are unable to proceed because each is waiting for one of the others to do something",
+        "type": "single choice"
+    },
+    "23": {
+        "question": "Explain the concept of recursion.",
+        "difficulty": "medium",
+        "answer": "A process in which a function calls itself as a subroutine, allowing the function to be repeated several times",
+        "type": "single choice"
+    },
+    "24": {
+        "question": "What does 'public,' 'private,' and 'protected' mean in OOP?",
+        "difficulty": "medium",
+        "answer": "Access specifiers that control the accessibility of class members. 'Public' means accessible from anywhere, 'private' means accessible only within the class, and 'protected' means accessible within the class and its subclasses.",
+        "type": "single choice"
+    },
+    "25": {
+        "question": "What is a hash table and how does it work?",
+        "difficulty": "medium",
+        "answer": "A data structure that stores data in an associative manner; data is accessed by a generated index based on a key, using a hash function.",
+        "type": "single choice"
+    },
+    "26": {
+        "question": "Describe the quicksort algorithm.",
+        "difficulty": "hard",
+        "answer": "A divide-and-conquer algorithm that picks an element as pivot and partitions the given array around the picked pivot.",
+        "type": "single choice"
+    },
+    "27": {
+        "question": "What is a binary search tree?",
+        "difficulty": "medium",
+        "answer": "A tree data structure in which each node has at most two children, referred to as the left child and the right child, and where for each node, all elements in the left subtree are less than the node and all elements in the right subtree are greater.",
+        "type": "single choice"
+    },
+    "28": {
+        "question": "Explain the difference between TCP and UDP.",
+        "difficulty": "medium",
+        "answer": "TCP is a connection-oriented protocol that ensures reliable transmission of data, while UDP is a connectionless protocol that does not guarantee delivery, order, or error checking.",
+        "type": "single choice"
+    },
+    "29": {
+        "question": "What is the significance of Big O notation?",
+        "difficulty": "medium",
+        "answer": "It is a mathematical notation used to describe the upper bound of an algorithm's running time or space requirements in terms of the size of the input.",
+        "type": "single choice"
+    },
+    "30": {
+        "question": "Define the term 'cloud computing.'",
+        "difficulty": "easy",
+        "answer": "The delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ('the cloud') to offer faster innovation, flexible resources, and economies of scale.",
+        "type": "single choice"
+    },
+    "31": {
+        "question": "What are the principles of RESTful API design?",
+        "difficulty": "medium",
+        "answer": "Statelessness, cacheability, uniform interface, layered system, code on demand (optional), and client-server architecture.",
+        "type": "single choice"
+    },
+    "32": {
+        "question": "What is a blockchain?",
+        "difficulty": "medium",
+        "answer": "A distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions.",
+        "type": "single choice"
+    },
+    "33": {
+        "question": "Explain how a DNS lookup works.",
+        "difficulty": "medium",
+        "answer": "DNS lookup involves translating a hostname (such as www.example.com) into a computer-friendly IP address (such as 192.0.2.1). It typically involves querying multiple DNS servers, starting from the recursive resolver to root, TLD (Top-Level Domain), and finally the authoritative name servers.",
+        "type": "single choice"
+    },
+    "34": {
+        "question": "What is the difference between symmetric and asymmetric encryption?",
+        "difficulty": "medium",
+        "answer": "Symmetric encryption uses the same key for encryption and decryption, while asymmetric encryption uses a public key for encryption and a private key for decryption.",
+        "type": "single choice"
+    },
+    "35": {
+        "question": "Describe what 'machine learning' entails.",
+        "difficulty": "medium",
+        "answer": "Machine learning is a subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.",
+        "type": "single choice"
+    },
+    "36": {
+        "question": "What is a neural network?",
+        "difficulty": "medium",
+        "answer": "A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.",
+        "type": "single choice"
+    },
+    "37": {
+        "question": "What are the differences between supervised and unsupervised learning?",
+        "difficulty": "medium",
+        "answer": "In supervised learning, the model is trained on a labeled dataset, which means it has an input-output pair. Unsupervised learning involves training the model using a dataset without any labels, meaning the system tries to learn without any direct instruction.",
+        "type": "single choice"
+    },
+    "38": {
+        "question": "What is the Internet of Things (IoT)?",
+        "difficulty": "medium",
+        "answer": "The Internet of Things refers to a network of physical objects ('things') that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.",
+        "type": "single choice"
+    },
+    "39": {
+        "question": "How do cookies work in web browsers?",
+        "difficulty": "easy",
+        "answer": "Cookies are small pieces of data that are stored on your computer by your web browser at the request of websites you visit. They are used to remember information about you, such as your login information or what's in your shopping cart.",
+        "type": "single choice"
+    },
+    "40": {
+        "question": "What is a session in web development?",
+        "difficulty": "easy",
+        "answer": "A session is a way to store information (in variables) to be used across multiple pages. Unlike a cookie, the information is not stored on the users' computer.",
+        "type": "single choice"
+    },
+    "41": {
+        "question": "Explain the concept of virtual memory.",
+        "difficulty": "medium",
+        "answer": "Virtual memory is a memory management capability of an operating system (OS) that uses hardware and software to allow a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage.",
+        "type": "single choice"
+    },
+    "42": {
+        "question": "What are microservices in software architecture?",
+        "difficulty": "medium",
+        "answer": "Microservices is an architectural style that structures an application as a collection of services that are highly maintainable and testable, loosely coupled, independently deployable, and organized around business capabilities.",
+        "type": "single choice"
+    },
+    "43": {
+        "question": "Describe the Model-View-Controller (MVC) design pattern.",
+        "difficulty": "medium",
+        "answer": "MVC is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.",
+        "type": "single choice"
+    },
+    "44": {
+        "question": "What is Agile software development?",
+        "difficulty": "easy",
+        "answer": "Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.",
+        "type": "single choice"
+    },
+    "45": {
+        "question": "Explain the concept of software containers.",
+        "difficulty": "medium",
+        "answer": "Software containers are lightweight, executable software packages that include everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings.",
+        "type": "single choice"
+    },
+    "46": {
+        "question": "What is the difference between Git merge and rebase?",
+        "difficulty": "medium",
+        "answer": "Git merge combines multiple sequences of commits into one unified history. In contrast, rebase rewrites the project history by creating new commits for each commit in the original branch.",
+        "type": "single choice"
+    },
+    "47": {
+        "question": "How does a blockchain ensure data integrity?",
+        "difficulty": "hard",
+        "answer": "Blockchain ensures data integrity through the use of cryptographic hashing, a decentralized consensus mechanism, and an immutable ledger that records all transactions in a secure and tamper-proof manner.",
+        "type": "single choice"
+    },
+    "48": {
+        "question": "What is the principle of encapsulation in object-oriented programming?",
+        "difficulty": "easy",
+        "answer": "Encapsulation is the bundling of data with the methods that operate on that data, or the restriction of direct access to some of an object's components.",
+        "type": "single choice"
+    },
+    "49": {
+        "question": "What role does the HTTP protocol play in the web?",
+        "difficulty": "easy",
+        "answer": "HTTP (Hypertext Transfer Protocol) is the foundation of data communication for the World Wide Web, enabling the fetching of resources, such as HTML documents. It is a protocol for exchanging hypertext messages between servers and clients.",
+        "type": "single choice"
+    },
+    "50": {
+        "question": "Explain what a REST API is and its main principles.",
+        "difficulty": "medium",
+        "answer": "A REST API (Representational State Transfer API) is a set of web addresses that respond with pure information, not a formatted page. It follows six guiding constraints: uniform interface, client-server, stateless, cacheable, layered system, and code on demand (optional).",
+        "type": "single choice"
+    },
+    "51": {
+        "question": "What is the significance of the CAP theorem in distributed systems?",
+        "difficulty": "hard",
+        "answer": "The CAP theorem states that in any distributed computing system, it is impossible to simultaneously provide all three of the following guarantees: Consistency, Availability, and Partition tolerance. This theorem is a fundamental principle that helps in designing distributed systems.",
+        "type": "single choice"
+    },
+    "52": {
+        "question": "Describe the difference between SQL and NoSQL databases.",
+        "difficulty": "medium",
+        "answer": "SQL databases are relational, table-based databases, whereas NoSQL databases can be document-oriented, key-value pairs, wide-column stores, or graph databases. SQL databases are designed for complex queries, and NoSQL databases are designed for scalability and flexibility.",
+        "type": "single choice"
+    },
+    "53": {
+        "question": "What is the main purpose of a load balancer in computing?",
+        "difficulty": "easy",
+        "answer": "A load balancer is used to distribute network or application traffic across a number of servers to increase capacity (concurrent users) and reliability of applications.",
+        "type": "single choice"
+    },
+    "54": {
+        "question": "Explain the concept of Git branching.",
+        "difficulty": "medium",
+        "answer": "In Git, branching is a feature that lets developers diverge from the main line of development and continue to work independently without affecting the main line. This facilitates managing features, fixing bugs, or experimenting in a controlled manner.",
+        "type": "single choice"
+    },
+    "55": {
+        "question": "What are the key features of the HTTP/2 protocol?",
+        "difficulty": "medium",
+        "answer": "Key features of HTTP/2 include binary framing, multiplexing, server push, header compression, and connection reuse, which altogether improve the speed, efficiency, and performance of data transmission over the web.",
+        "type": "single choice"
+    },
+    "56": {
+        "question": "Define and explain the term 'DevOps'.",
+        "difficulty": "medium",
+        "answer": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) with the goal of shortening the system development life cycle and providing continuous delivery with high software quality.",
+        "type": "single choice"
+    },
+    "57": {
+        "question": "What is the purpose of a firewall in computer networks?",
+        "difficulty": "easy",
+        "answer": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. At its most basic, a firewall is essentially a barrier between a private internal network and the public Internet.",
+        "type": "single choice"
+    }
+}    
